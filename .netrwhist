@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/benas/Desktop/go/cli'
+let g:netrw_dirhist_0='/home/benas/Desktop/go'
+let g:netrw_dirhist_9='/home/benas/Desktop'
+let g:netrw_dirhist_8='/home/benas'
+let g:netrw_dirhist_7='/home/benas/Projektas'
+let g:netrw_dirhist_6='/home/benas'
+let g:netrw_dirhist_5='/home/benas/Desktop'
+let g:netrw_dirhist_4='/home/benas/Desktop/go'
+let g:netrw_dirhist_3='/home/benas/Desktop/go/cli'
+let g:netrw_dirhist_2='/home/benas/.config/exercism'
