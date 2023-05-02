@@ -21,7 +21,6 @@ keymap.set("n", "<leader>nh", ":nohl<CR>")
 keymap.set("n", "x", '"_x')
 
 -- Window spliting
--- ctl-w JK
 keymap.set("n", "<leader>sv", "<C-w>v") -- vertically
 keymap.set("n", "<leader>sh", "<C-w>s") -- horizontally 
 keymap.set("n", "<leader>se", "<C-w>=") -- make equal window width 
