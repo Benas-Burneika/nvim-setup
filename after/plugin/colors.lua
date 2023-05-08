@@ -35,6 +35,7 @@ require("catppuccin").setup({
         harpoon = true,
         mason = true,
         cmp = true,
+        gitgutter = true,
         native_lsp = {
           enabled = true,
           virtual_text = {
